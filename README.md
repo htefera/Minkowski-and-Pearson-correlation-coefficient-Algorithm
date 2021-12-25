@@ -33,7 +33,8 @@ For the pearson correlation coefficient we applied higher order functions on the
  
  <div align="center">
  Figure 2:Pearson Correlation Formula
- </div>
+ </div> 
+ <br>
 
 
 To evaluate the final result, which is given on the left side, i divided the problem into
