@@ -36,13 +36,13 @@ For the pearson correlation coefficient we applied higher order functions on the
  </div> 
  <br>
 
+### 3. Program Execution
+* Pearson(1.0::2.0::Nil,2.0::1.0::Nil)
+* MinkowskiHOF(1.0::2.0::Nil)(2.0::3.0::Nil)(1.0)
+* Minkowski(1.0)(1.0::2.0::Nil)(2.0::3.0::Nil)
 
-To evaluate the final result, which is given on the left side, i divided the problem into
-smaller manageable tasks as you can see on the right side and handle them individually and
-combine the final result. It is a kind of divide and conquer strategy because i found it easy
-to handle the problem.
 
-
-### 3. Reference
+### 4. Reference
 1. [Types of Distances in Machine Learning](https://medium.com/analytics-vidhya/types-of-distances-in-machine-learning-5b1233380775)
 2. [Pearson Correlation Coefficient](https://www.wallstreetmojo.com/pearson-correlation-coefficient/)
+3. [Scala Documentation](https://www.scala-lang.org/)
