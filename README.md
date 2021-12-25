@@ -4,7 +4,7 @@
 ### Minkowski Distance
 Minkowski Distance is the generalized form of Euclidean and Manhattan Distance. The formula for Minkowski Distance is given as:
 
-![Minkowski Distance Formula]
+![Minkowski Distance Formula](minwoski.png)
 
 For the minkowski distance i used both recursion and higher order function to
 implement it based on the following formula of minkowski distance.
