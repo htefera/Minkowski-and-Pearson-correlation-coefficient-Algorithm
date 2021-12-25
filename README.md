@@ -15,7 +15,7 @@ implement it based on the following formula of minkowski distance.
 For the pearson correlation coefficient i used the higher order function to solve based
 on the following formula. It is exactly the same with the given one but it is more simplified
 to use it. <br>
-![Pearson Correlation Formula](https://github.com/htefera/Minkowski-and-Pearson-correlation-coefficient-Algorithm/tree/master/Images/pearson_formula.png)
+[Pearson Correlation Formula](https://github.com/htefera/Minkowski-and-Pearson-correlation-coefficient-Algorithm/tree/master/Images/pearson_formula.png)
 
 
 
