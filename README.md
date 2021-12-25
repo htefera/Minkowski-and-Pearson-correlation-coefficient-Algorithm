@@ -1,1 +1,1 @@
-# Minkowski-and-Pearson-correlation-coefficient-Algorithm
+# Minkowski ALgorith and Pearson correlation coefficient
