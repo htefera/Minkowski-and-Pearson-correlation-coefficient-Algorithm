@@ -27,3 +27,8 @@ To evaluate the final result, which is given on the left side, i divided the pro
 smaller manageable tasks as you can see on the right side and handle them individually and
 combine the final result. It is a kind of divide and conquer strategy because i found it easy
 to handle the problem.
+
+
+## Reference
+1. [Types of Distances in Machine Learning](https://medium.com/analytics-vidhya/types-of-distances-in-machine-learning-5b1233380775)
+2. [Pearson Correlation Coefficient](https://www.wallstreetmojo.com/pearson-correlation-coefficient/)
