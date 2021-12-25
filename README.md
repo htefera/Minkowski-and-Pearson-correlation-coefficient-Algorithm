@@ -6,6 +6,7 @@
 Minkowski Distance is the generalized form of Euclidean and Manhattan Distance. The formula for Minkowski distance is given as
 
 ![Minkowski Distance Formula](Images/minwoski.png)
+Figure 1: Minkowski Distance Formula]
 
 For the minkowski distance i used both recursion and higher order function to
 implement it based on the following formula of minkowski distance.
@@ -27,7 +28,7 @@ For the pearson correlation coefficient we applied higher order functions on the
 
 ![Pearson Correlation Formula](Images/pearson.PNG)
  
-
+ Figure 2:Pearson Correlation Formula
 
 
 To evaluate the final result, which is given on the left side, i divided the problem into
