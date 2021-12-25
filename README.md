@@ -1,7 +1,7 @@
 # Minkowski Distance and Pearson correlation coefficient
 
 
-### Minkowski Distance
+### 1.  Minkowski Distance
 
 Minkowski Distance is the generalized form of Euclidean and Manhattan Distance. The formula for Minkowski distance is given as
 
@@ -13,9 +13,15 @@ implement it based on the following formula of minkowski distance.
 
 
 
-### Pearson correlation coefficient
+### 2. Pearson correlation coefficient
+
+The Pearson correlation coefficient is used to measure the strength of a linear association between two variables in a given datasets.
 
 
+Pearson’s correlation coefficient returns a value between -1 and 1. The interpretation of the correlation coefficient is as under:
+* If the coefficient is -1, it indicates a strong negative relationship which implies a perfect negative relationship between the variables in the data
+* If the  coefficient is 0, it indicates no relationship or correlation exists between the variables
+* If the coefficient is 1, it indicates a strong positive relationship. It implies a perfect positive relationship between the variables
 
 For the pearson correlation coefficient we applied higher order functions on the following formula. <br>
 
@@ -30,6 +36,6 @@ combine the final result. It is a kind of divide and conquer strategy because i 
 to handle the problem.
 
 
-## Reference
+### 3. Reference
 1. [Types of Distances in Machine Learning](https://medium.com/analytics-vidhya/types-of-distances-in-machine-learning-5b1233380775)
 2. [Pearson Correlation Coefficient](https://www.wallstreetmojo.com/pearson-correlation-coefficient/)
