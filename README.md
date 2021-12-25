@@ -1,7 +1,8 @@
-# Minkowski ALgorith and Pearson correlation coefficient
+# Minkowski Distance and Pearson correlation coefficient
 
 
 ### Minkowski Distance
+
 Minkowski Distance is the generalized form of Euclidean and Manhattan Distance. The formula for Minkowski Distance is given as:
 
 ![Minkowski Distance Formula](Images/minwoski.png)
@@ -14,10 +15,7 @@ implement it based on the following formula of minkowski distance.
 
 ### Pearson correlation coefficient
 
-
-For the pearson correlation coefficient i used the higher order function to solve based
-on the following formula. It is exactly the same with the given one but it is more simplified
-to use it. <br>
+For the pearson correlation coefficient we applied higher order functions on the following formula. <br>
 
 ![Pearson Correlation Formula](Images/pearson.PNG)
 
