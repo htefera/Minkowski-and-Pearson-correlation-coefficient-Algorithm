@@ -15,11 +15,12 @@ implement it based on the following formula of minkowski distance.
 
 ### Pearson correlation coefficient
 
+
+
 For the pearson correlation coefficient we applied higher order functions on the following formula. <br>
-<p align="center">
+
 ![Pearson Correlation Formula](Images/pearson.PNG)
  
-</p>
 
 
 
